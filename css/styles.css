@@ -1,0 +1,121 @@
+body {
+  font-family: Montserrat ;
+
+}
+#gradient{
+background: #edb021;
+
+}
+
+#title {
+  background: #6a655d;
+  font-family: "The Nautigal", cursive;
+  border-bottom: 10px solid #dcdcdc;
+  
+}
+.black {
+  font-size: 2rem;
+  color: #1c222a;
+}
+.white {
+  font-size: 2rem;
+  color: #dcdcdc;
+}
+.main {
+  font-size: 2rem;
+  color: #edb021;
+}
+
+
+.logo {
+  font-family:"The Nautigal", cursive;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #998a99;
+  line-height: 1;
+  padding-bottom: 6%;
+}
+
+h4 {
+  font-weight: bold;
+  padding-left:15px;
+  color: #6a655d;
+}
+
+p {
+  color: #6a655d;
+}
+
+.use {
+    color: #aa064b;
+
+}
+.web {
+    color: #429595;
+}
+
+.container-fluid {
+  padding: 0 15%;
+
+}
+
+
+/* Navbar Section */
+
+.navbar-brand {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+
+.nav-item {
+  padding: 0 15px;
+  font-weight: lighter;
+  font-size: 2.2rem;
+
+}
+
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.icon {
+  margin-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+.row{
+  padding-bottom: 5%;
+}
+#button {
+
+  padding-left: 255px ;
+}
+.download-button {
+  margin: 3% 5% 0 0;
+}
+
+#contact{
+
+  background: #6a655d;
+  padding-left: 5%;
+  border-top: 10px solid #dcdcdc;
+
+}
+a{color: #dcdcdc;}
+.contact2{
+
+  text-decoration: none;
+  color: #dcdcdc;
+  padding-top: 1%;
+}
+.footer{
+  padding-top: 2%;
+}
